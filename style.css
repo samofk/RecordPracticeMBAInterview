@@ -1,0 +1,40 @@
+body {
+	
+}
+
+.container{
+	height: 80vh;
+	margin: 0 auto;
+}
+nav {
+	padding: 10px;
+}
+nav {
+	text-align: center;
+}
+
+h1  {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif; 
+	margin: 5px;
+	font-weight: bold;
+	text-align: center;
+	border-bottom: none;
+}
+
+.gameContainer  {
+	/*background-color: #66ccff;*/
+	border: solid black;
+	height:70vh; 
+	
+	margin: 0 auto;
+}
+.inputHolder {
+	text-align: center;
+	margin-top: 10px;
+
+}
+
+
+#myVideo {
+  background-color: #E8E884;
+}
